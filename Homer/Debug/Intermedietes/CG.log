@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Projetos\CG\CG\main.cpp(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Projetos\CG\CG\main.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Projetos\CG\CG\main.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projetos\CG\CG\main.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CG.vcxproj -> D:\Projetos\CG\Debug\CG.exe
